@@ -1,5 +1,5 @@
 # Overview:
-A machine learning starter project for processing the data from bulgarian id card (the old id-card standard) images to a machine readable list of strings format. The project utilises 3 instance segmentation models trained beforehand with the Detectron2(https://github.com/facebookresearch/detectron2) open source library. Another key component is the Pytesseract library which serves as a wrapper for the Tesseract-OCR(https://github.com/tesseract-ocr/tesseract) library. The project serves as a foundation for further development in the fields of computer vision and automatisation of processes.
+A machine learning starter project for processing the data from bulgarian id card (the old id-card standard) images to a machine readable list of strings format. The project utilises 3 instance segmentation models trained beforehand with the Detectron2 (https://github.com/facebookresearch/detectron2) open source library. Another key component is the Pytesseract library which serves as a wrapper for the Tesseract-OCR (https://github.com/tesseract-ocr/tesseract) library. The project serves as a foundation for further development in the fields of computer vision and automatisation of processes.
 
 
 # Installation Guide:
