@@ -7,19 +7,21 @@ In order to run the project, a few libraries and tools have to be installed in a
 
 The following installation steps are provided using pip, the recommended package manager for Python. These instructions assume you are working in a Python environment where pip is available. However, if you prefer or need to use a different package manager (e.g., conda for Anaconda environments, apt-get for Debian-based systems, or brew for macOS), you are welcome to adapt the commands accordingly based on your operating system and environment.
 ```
-* pip install numpy
-* pip install cv2
-* pip install flask
-* pip install torch
-* pip install tesseract
-* pip install glob
-* pip install unicodedata
-* pip install collections
-* pip install imutils
-* pip install fvcore
-* pip install pycocotools
-* pip install cloudpickle
-* pip install omegaconf
+* pip install Numpy
+* pip install OpenCv-python
+* pip install Flask
+* pip install Torch
+* pip install Torchvision
+* pip install Tesseract
+* pip install Glob
+* pip install Unicodedata
+* pip install Collections
+* pip install Imutils
+* pip install Fvcore
+* pip install Pycocotools
+* pip install Cloudpickle
+* pip install Omegaconf
+* pip install Pillow
 
 * Install Microsoft Visual Studio with the "Desktop development with C++" workload. Official MVS website download page: https://visualstudio.microsoft.com/downloads/
 * Include the  the individual components "MSVC v142 - VS 2019 c++ x64/x86 build tools (v14.27)" and "MSVC v142 - VS 2019 c++ x64/x86 spectre-mitigated libs (v14.27)" in the installation
