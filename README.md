@@ -23,7 +23,7 @@ The following installation steps are provided using pip, the recommended package
 * pip install Omegaconf
 * pip install Pillow
 
-* Install Microsoft Visual Studio with the "Desktop development with C++" workload. Official MVS website download page: https://visualstudio.microsoft.com/downloads/
+* Install Microsoft Visual Studio Community 2019 with the "Desktop development with C++" workload. Official MVS website download page: https://visualstudio.microsoft.com/downloads/
 * Include the  the individual components "MSVC v142 - VS 2019 c++ x64/x86 build tools (v14.27)" and "MSVC v142 - VS 2019 c++ x64/x86 spectre-mitigated libs (v14.27)" in the installation
 
 * Install Tesseract-OCR by following the official installation guide here: https://github.com/UB-Mannheim/tesseract/wiki
